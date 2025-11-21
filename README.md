@@ -19,8 +19,7 @@
 - [Methodology](#methodology)
 - [Evaluation Results](#evaluation-results)
 - [Limitations & Future Work](#limitations--future-work)
-- [References](#references)
-- [Contact](#contact)
+
 
 ---
 
