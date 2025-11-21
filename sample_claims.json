@@ -1,0 +1,229 @@
+[
+  {
+    "id": 103064,
+    "claim": "The Wolf of Wall Street was a film of 1999.",
+    "label": "REFUTES",
+    "evidence": [
+      [
+        [
+          121034,
+          135322,
+          "The_Wolf_of_Wall_Street_-LRB-2013_film-RRB-",
+          0
+        ]
+      ],
+      [
+        [
+          121034,
+          135323,
+          "The_Wolf_of_Wall_Street_-LRB-2013_film-RRB-",
+          1
+        ],
+        [
+          121034,
+          135323,
+          "The_Wolf_of_Wall_Street_-LRB-book-RRB-",
+          1
+        ]
+      ],
+      [
+        [
+          121034,
+          135324,
+          "The_Wolf_of_Wall_Street_-LRB-2013_film-RRB-",
+          4
+        ]
+      ],
+      [
+        [
+          121034,
+          135325,
+          "The_Wolf_of_Wall_Street_-LRB-2013_film-RRB-",
+          7
+        ]
+      ],
+      [
+        [
+          121034,
+          135326,
+          "The_Wolf_of_Wall_Street_-LRB-2013_film-RRB-",
+          9
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 25630,
+    "claim": "Rope starred Bill Clinton.",
+    "label": "REFUTES",
+    "evidence": [
+      [
+        [
+          41643,
+          50076,
+          "Rope_-LRB-film-RRB-",
+          4
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 220527,
+    "claim": "Jared Leto has a former name called Toast.",
+    "label": "NOT ENOUGH INFO",
+    "evidence": [
+      [
+        [
+          262465,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 128657,
+    "claim": "Linkin Park is a British rock band.",
+    "label": "REFUTES",
+    "evidence": [
+      [
+        [
+          150689,
+          165539,
+          "Linkin_Park",
+          0
+        ]
+      ],
+      [
+        [
+          150696,
+          165546,
+          "Linkin_Park",
+          0
+        ]
+      ],
+      [
+        [
+          150696,
+          165547,
+          "Linkin_Park",
+          1
+        ],
+        [
+          150696,
+          165547,
+          "Hybrid_Theory",
+          0
+        ]
+      ],
+      [
+        [
+          150696,
+          165548,
+          "Linkin_Park",
+          2
+        ],
+        [
+          150696,
+          165548,
+          "Meteora_-LRB-album-RRB-",
+          0
+        ]
+      ],
+      [
+        [
+          150696,
+          165549,
+          "Linkin_Park",
+          10
+        ],
+        [
+          150696,
+          165549,
+          "Minutes_to_Midnight_-LRB-Linkin_Park_album-RRB-",
+          0
+        ]
+      ],
+      [
+        [
+          150696,
+          165550,
+          "Linkin_Park",
+          12
+        ],
+        [
+          150696,
+          165550,
+          "A_Thousand_Suns",
+          0
+        ]
+      ],
+      [
+        [
+          150696,
+          165551,
+          "Linkin_Park",
+          13
+        ],
+        [
+          150696,
+          165551,
+          "Living_Things_-LRB-Linkin_Park_album-RRB-",
+          0
+        ]
+      ],
+      [
+        [
+          150696,
+          165552,
+          "Linkin_Park",
+          14
+        ],
+        [
+          150696,
+          165552,
+          "The_Hunting_Party_-LRB-album-RRB-",
+          0
+        ]
+      ],
+      [
+        [
+          150696,
+          165553,
+          "Linkin_Park",
+          15
+        ],
+        [
+          150696,
+          165553,
+          "One_More_Light",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 35172,
+    "claim": "Celine Dion sings in Arabic.",
+    "label": "REFUTES",
+    "evidence": [
+      [
+        [
+          51364,
+          61088,
+          "Celine_Dion",
+          0
+        ]
+      ],
+      [
+        [
+          51364,
+          61089,
+          "Celine_Dion",
+          16
+        ]
+      ]
+    ]
+  }
+]
