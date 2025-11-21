@@ -1,7 +1,7 @@
 # 🛡️ Trustworthy AI: Hallucination Detection and Mitigation Using RAG
 
 **DATA 606 Capstone Project**  
-**Author:** Poojitha Thatamsetty , Vamsi Krishna Peeta 
+**Authors:** Poojitha Thatamsetty , Vamsi Krishna Peeta 
 **Advisor:** Muhammad Ali Yousuf  
 **University of Maryland, Baltimore County (UMBC)**
 
