@@ -1,0 +1,51 @@
+
+FEVER DATASET - EXPLORATORY DATA ANALYSIS SUMMARY
+============================================================
+
+Dataset Overview:
+  • Total Claims: 15,000
+  • Features: 10
+  • Date: 2025-11-02
+
+Label Distribution:
+label
+REFUTES            5000
+NOT ENOUGH INFO    5000
+SUPPORTS           5000
+
+Claim Length Statistics:
+  • Min Words: 2
+  • Max Words: 65
+  • Mean Words: 8.2
+  • Median Words: 8.0
+
+Claims by Length Category:
+  • Short (≤10 words): 12,224 (81.5%)
+  • Medium (11-20 words): 2,708 (18.1%)
+  • Long (>20 words): 68 (0.5%)
+
+Evidence Statistics:
+  • Claims with Evidence: 15,000 (100.0%)
+  • Claims without Evidence: 0 (0.0%)
+  • Avg Evidence per Claim: 1.69
+
+============================================================
+
+Key Insights:
+1. Dataset is balanced across labels (equal SUPPORTS, REFUTES, NOT ENOUGH INFO)
+2. Most claims are medium length (10-20 words)
+3. All labels show similar complexity patterns
+4. Evidence availability varies by claim type
+
+Files Generated:
+  • eda_claim_lengths.png
+  • eda_words_supports.png
+  • eda_words_refutes.png
+  • eda_evidence_counts.png
+  • eda_label_distribution.png
+  • eda_complexity_correlation.png
+  • eda_summary_report.txt
+
+All files saved to: C:\Users\pooji\Desktop
+
+============================================================
